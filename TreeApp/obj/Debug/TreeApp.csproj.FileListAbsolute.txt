@@ -1,0 +1,9 @@
+C:\Users\Игорь\Desktop\Новая папка (2)\TreeApp\TreeApp\bin\Debug\TreeApp.exe.config
+C:\Users\Игорь\Desktop\Новая папка (2)\TreeApp\TreeApp\bin\Debug\TreeApp.exe
+C:\Users\Игорь\Desktop\Новая папка (2)\TreeApp\TreeApp\bin\Debug\TreeApp.pdb
+C:\Users\Игорь\Desktop\Новая папка (2)\TreeApp\TreeApp\obj\Debug\TreeApp.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\Новая папка (2)\TreeApp\TreeApp\obj\Debug\TreeApp.exe
+C:\Users\Игорь\Desktop\Новая папка (2)\TreeApp\TreeApp\obj\Debug\TreeApp.pdb
+C:\Users\Игорь\Desktop\Новая папка (2)\TreeApp\TreeApp\bin\Debug\LambdaMicrobenchmarking.dll
+C:\Users\Игорь\Desktop\Новая папка (2)\TreeApp\TreeApp\bin\Debug\MathNet.Numerics.dll
+C:\Users\Игорь\Desktop\Новая папка (2)\TreeApp\TreeApp\bin\Debug\MathNet.Numerics.xml
